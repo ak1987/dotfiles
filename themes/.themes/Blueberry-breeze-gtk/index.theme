@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=Blueberry-breeze-gtk
+Type=X-GNOME-Metatheme
+Comment=Blueberry-breeze-gtk
+Encoding=UTF-8
+GtkTheme=Blueberry-breeze-gtk
